@@ -1,0 +1,36 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"Ramin Atayee",
+            "email":"raminatayeeofficial@gmail.com",
+            "profile":"https://images.unsplash.com/phto-14",
+            "status":"Active",
+            "role":"Admin"
+        },
+        {
+            "id":2,
+            "name":"Ramin Atayee",
+            "email":"raminatayeeofficial@gmail.com",
+            "profile":"https://images.unsplash.com/phto-14",
+            "status":"Active",
+            "role":"Owner"
+        },
+        {
+            "id":3,
+            "name":"Atayee",
+            "email":"atayeeofficial@gmail.com",
+            "profile":"https://images.unsplash.com/phto-14",
+            "status":"Active",
+            "role":"Member"
+        },
+        {
+            "id":4,
+            "name":"Ramin",
+            "email":"raminofficial@gmail.com",
+            "profile":"https://images.unsplash.com/phto-14",
+            "status":"Active",
+            "role":"Member"
+        }
+    ]
+}
